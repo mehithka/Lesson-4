@@ -9,3 +9,9 @@ print("\n","the total marks scored are: " ,sum)
 
 average = sum/4 
 print("the average of the student across all the subjects is: " , average)
+
+
+perc= (sum/400)*100
+print(end = "the percentage is: =")
+print(perc)
+
